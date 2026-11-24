@@ -4,8 +4,8 @@ All 28 switches implemented and tested. Limited or empty coverage is explicitly 
 
 ## Get the development project
 
-1. Download `kosherguard-category-development.tar.gz` and extract it.
-2. Download `kosherguard-category-runtime.sqlite`.
+1. Download `2-kosherguard-category-development.tar.gz` and extract it.
+2. Download `1-kosherguard-category-runtime.sqlite`.
 3. Place the SQLite file at `artifacts/runtime.sqlite` inside the extracted project.
 4. Read the project's README for Python requirements, local startup, tests, evidence and limits.
 
